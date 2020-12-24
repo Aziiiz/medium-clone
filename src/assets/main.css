@@ -5110,7 +5110,7 @@
       color: #5CB85C !important; }
   
   footer {
-    background: #f3f3f3;
+    background: #373a3c;
     margin-top: 3rem;
     padding: 1rem 0;
     position: absolute;
@@ -5121,8 +5121,8 @@
     footer .attribution {
       vertical-align: middle;
       margin-left: 10px;
-      font-size: 0.8rem;
-      color: #bbb;
+      font-size: 0.9rem;
+      color: #FFF;
       font-weight: 300; }
   
   .error-messages {
